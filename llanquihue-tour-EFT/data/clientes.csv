@@ -1,0 +1,6 @@
+rut,nombre,apellido,telefono,correo,calle,numero,ciudad,region,nacionalidad,cantidadReservas
+12.345.678-9,Valentina,Rojas,+56911112222,valentina.rojas@gmail.com,Av. Los Notros,123,Puerto Montt,Región de Los Lagos,Chilena,3
+98.765.432-1,James,Miller,+56933334444,james.miller@outlook.com,Calle Los Volcanes,456,Osorno,Región de Los Lagos,Estadounidense,1
+11.111.111-1,Camila,Pérez,+56944445555,camila.perez@gmail.com,Calle Rahue,200,Osorno,Región de Los Lagos,Chilena,2
+22.222.222-2,Hans,Müller,+56955556666,hans.muller@email.de,Av. Philippi,88,Frutillar,Región de Los Lagos,Alemana,4
+33.333.333-3,Sofía,Castro,+56966667777,sofia.castro@mail.com,Los Pinos,45,Puerto Varas,Región de Los Lagos,Argentina,1

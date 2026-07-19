@@ -1,0 +1,5 @@
+codigo,nombre,descripcion,precio,duracion,destino
+PKG001,Ruta Lacustre,Paseo en lancha por el lago Llanquihue con almuerzo incluido,85000,1 día,Lago Llanquihue
+PKG002,Tour Gastronómico,Recorrido por restaurantes y productores locales de Puerto Varas,65000,Medio día,Puerto Varas
+PKG003,Volcán Osorno,Excursión al pie del volcán con guía certificado,120000,1 día,Volcán Osorno
+PKG004,Circuito Cultural,Visita a museos y casonas coloniales de Frutillar,45000,Medio día,Frutillar

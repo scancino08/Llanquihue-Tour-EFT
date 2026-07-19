@@ -1,0 +1,4 @@
+rut,nombre,apellido,telefono,correo,calle,numero,ciudad,region,salario,fechaContrato,idioma,especialidad
+22.333.444-5,Rodrigo,Soto,+56977778888,rodrigo.soto@llanquihuetour.cl,Camino Lago Llanquihue,321,Frutillar,Región de Los Lagos,820000,2019-11-01,Español / Inglés,Rutas lacustres y gastronomía local
+44.444.444-4,Marcela,Fuentes,+56988889999,marcela.fuentes@llanquihuetour.cl,Av. Vicente Pérez Rosales,10,Puerto Varas,Región de Los Lagos,900000,2020-05-20,Español / Alemán,Turismo de aventura y naturaleza
+55.555.555-5,Pedro,Alvarado,+56900001111,pedro.alvarado@llanquihuetour.cl,Calle Llanquihue,77,Puerto Montt,Región de Los Lagos,780000,2022-01-10,Español / Inglés / Francés,Circuitos culturales e históricos

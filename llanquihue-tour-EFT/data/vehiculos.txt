@@ -1,0 +1,5 @@
+patente,marca,modelo,capacidad,tipo
+BJKL-45,Mercedes-Benz,Sprinter,16,Minibús
+CDFG-12,Toyota,Hiace,12,Van
+PRTQ-90,Ford,Transit,20,Minibús
+MKLP-33,Volkswagen,Crafter,14,Van
