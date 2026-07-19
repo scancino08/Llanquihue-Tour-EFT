@@ -1,4 +1,4 @@
-# 🏔️ Llanquihue Tour - Sistema de Gestión v4.0
+# 🏔️ Llanquihue Tour - Sistema de Gestión EFT
 
 Sistema de gestión para la agencia de turismo **Llanquihue Tour**, desarrollado en Java aplicando los principios fundamentales de la Programación Orientada a Objetos.
 
